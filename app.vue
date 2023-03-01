@@ -3,12 +3,7 @@
     <NuxtLayout>
       <div>
         <header>
-          <ul>
-            <li>
-              <NuxtLink class="text-white" to="/">Home</NuxtLink>
-              <NuxtLink class="text-white" to="/profile/13">AnyID</NuxtLink>
-            </li>
-          </ul>
+          <Navbar />
         </header>
       </div>
       <NuxtPage />

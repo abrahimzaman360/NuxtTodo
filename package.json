@@ -8,6 +8,7 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "@nuxtjs/google-fonts": "^2.0.0",
     "autoprefixer": "^10.4.13",
     "nuxt": "^3.2.3",
     "postcss": "^8.4.21",
