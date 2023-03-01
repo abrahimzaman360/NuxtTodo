@@ -6,7 +6,7 @@
           <Navbar />
         </header>
       </div>
-      <NuxtPage />
+      <NuxtPage class="main" />
     </NuxtLayout>
   </div>
 </template>
