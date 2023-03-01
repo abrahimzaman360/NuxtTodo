@@ -5,7 +5,7 @@ What toDo Next.
 * Create 'Create Todo' Component (x).
 * Create 'All Todos' Component (x).
 * Create 'Dynamic Route [TodoID] Page' to Show Details of Each Todo (x).
-* Fix Bugs.
+* Fix Bugs. 
 * Deploy on Vercel or Netlify.
 
 ## Extra Note:
